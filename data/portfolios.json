@@ -1,23 +1,5 @@
 [
   {
-    "name": "Mahdi Pakravan | MPakravan",
-    "username": "mahdipakravan-dev",
-    "portfolioLink": "https://mpakravan.com/en",
-    "followers": 316,
-    "stars": 87,
-    "popularity": 403,
-    "lastFetched": 1763254827114
-  },
-  {
-    "name": "Nabin Khair",
-    "username": "nabinkhair42",
-    "portfolioLink": "https://www.nabinkhair.com.np",
-    "followers": 17,
-    "stars": 82,
-    "popularity": 99,
-    "lastFetched": 1763295621223
-  },
-  {
     "name": "Alyssa X",
     "username": "alyssaxuu",
     "portfolioLink": "https://www.alyssax.com",
@@ -108,6 +90,15 @@
     "lastFetched": 1763555035577
   },
   {
+    "name": "Lean Rada",
+    "username": "Kalabasa",
+    "portfolioLink": "https://leanrada.com",
+    "followers": 272,
+    "stars": 2261,
+    "popularity": 2533,
+    "lastFetched": 1763576273839
+  },
+  {
     "name": "KinfeMichael Tariku",
     "username": "Kinfe123",
     "portfolioLink": "https://kinfish.farmui.com",
@@ -115,6 +106,24 @@
     "stars": 23,
     "popularity": 508,
     "lastFetched": 1763555035577
+  },
+  {
+    "name": "Mahdi Pakravan | MPakravan",
+    "username": "mahdipakravan-dev",
+    "portfolioLink": "https://mpakravan.com/en",
+    "followers": 316,
+    "stars": 87,
+    "popularity": 403,
+    "lastFetched": 1763254827114
+  },
+  {
+    "name": "Nabin Khair",
+    "username": "nabinkhair42",
+    "portfolioLink": "https://www.nabinkhair.com.np",
+    "followers": 17,
+    "stars": 82,
+    "popularity": 99,
+    "lastFetched": 1763295621223
   },
   {
     "name": "Chánh Đại",
@@ -153,6 +162,15 @@
     "lastFetched": 1763555035577
   },
   {
+    "username": "surajgaud",
+    "name": "Suraj Gaud",
+    "portfolioLink": "https://www.surajgaud.com",
+    "followers": 3,
+    "stars": 0,
+    "popularity": 3,
+    "lastFetched": 1763616519300
+  },
+  {
     "name": "Talha Codes",
     "username": "talhacodesdev",
     "portfolioLink": "https://www.talhacodes.dev",
@@ -169,14 +187,5 @@
     "stars": 535,
     "popularity": 709,
     "lastFetched": 1763555035577
-  },
-  {
-    "name": "Lean Rada",
-    "username": "Kalabasa",
-    "portfolioLink": "https://leanrada.com",
-    "followers": 272,
-    "stars": 2261,
-    "popularity": 2533,
-    "lastFetched": 1763576273839
   }
 ]
