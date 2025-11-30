@@ -1,14 +1,5 @@
 [
   {
-    "name": "Lean Rada",
-    "username": "Kalabasa",
-    "portfolioLink": "https://leanrada.com",
-    "followers": 270,
-    "stars": 2267,
-    "popularity": 2537,
-    "lastFetched": 1764008320356
-  },
-  {
     "name": "Suraj Gaud",
     "username": "surajgaud",
     "portfolioLink": "https://www.surajgaud.com",
@@ -187,5 +178,14 @@
     "stars": 540,
     "popularity": 713,
     "lastFetched": 1764440166519
+  },
+  {
+    "name": "Lean Rada",
+    "username": "Kalabasa",
+    "portfolioLink": "https://leanrada.com",
+    "followers": 270,
+    "stars": 2273,
+    "popularity": 2543,
+    "lastFetched": 1764464622710
   }
 ]
