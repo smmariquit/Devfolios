@@ -1,14 +1,5 @@
 [
   {
-    "name": "Mahdi Pakravan | MPakravan",
-    "username": "mahdipakravan-dev",
-    "portfolioLink": "https://mpakravan.com/en",
-    "followers": 314,
-    "stars": 87,
-    "popularity": 401,
-    "lastFetched": 1765023688264
-  },
-  {
     "name": "Nabin Khair",
     "username": "nabinkhair42",
     "portfolioLink": "https://www.nabinkhair.com.np",
@@ -187,5 +178,14 @@
     "stars": 0,
     "popularity": 4,
     "lastFetched": 1765369512874
+  },
+  {
+    "name": "Mahdi Pakravan | MPakravan",
+    "username": "mahdipakravan-dev",
+    "portfolioLink": "https://mpakravan.com/en",
+    "followers": 315,
+    "stars": 87,
+    "popularity": 402,
+    "lastFetched": 1765456009398
   }
 ]
