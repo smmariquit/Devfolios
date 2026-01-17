@@ -36,6 +36,7 @@ Make sure your portfolio satisfies the following requirements before submitting 
 
 ## Portfolios
 - [alyssaxuu](https://www.alyssax.com)
+- [xeven777](https://anish7.me)
 - [antfu](https://antfu.me)
 - [aulianza](https://aulianza.id)
 - [braydoncoyer](https://www.braydoncoyer.dev)
