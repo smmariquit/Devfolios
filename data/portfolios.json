@@ -18,15 +18,6 @@
     "lastFetched": 1768566326146
   },
   {
-    "name": "Suraj Gaud",
-    "username": "surajgaud",
-    "portfolioLink": "https://www.surajgaud.com",
-    "followers": 4,
-    "stars": 0,
-    "popularity": 4,
-    "lastFetched": 1768458054936
-  },
-  {
     "username": "xeven777",
     "name": "Anish Biswas",
     "portfolioLink": "https://anish7.me",
@@ -196,5 +187,14 @@
     "stars": 547,
     "popularity": 720,
     "lastFetched": 1768870875876
+  },
+  {
+    "name": "Suraj Gaud",
+    "username": "surajgaud",
+    "portfolioLink": "https://www.surajgaud.com",
+    "followers": 4,
+    "stars": 0,
+    "popularity": 4,
+    "lastFetched": 1768890155970
   }
 ]
