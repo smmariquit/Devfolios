@@ -1,14 +1,5 @@
 [
   {
-    "name": "Anish Biswas",
-    "username": "xeven777",
-    "portfolioLink": "https://anish7.me",
-    "followers": 254,
-    "stars": 407,
-    "popularity": 661,
-    "lastFetched": 1773081526068
-  },
-  {
     "name": "Alyssa X",
     "username": "alyssaxuu",
     "portfolioLink": "https://www.alyssax.com",
@@ -196,5 +187,14 @@
     "stars": 104,
     "popularity": 133,
     "lastFetched": 1773470060003
+  },
+  {
+    "name": "Anish Biswas",
+    "username": "xeven777",
+    "portfolioLink": "https://anish7.me",
+    "followers": 252,
+    "stars": 408,
+    "popularity": 660,
+    "lastFetched": 1773537831505
   }
 ]
