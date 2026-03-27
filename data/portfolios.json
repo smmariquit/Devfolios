@@ -1,14 +1,5 @@
 [
   {
-    "name": "Suraj Gaud",
-    "username": "surajgaud",
-    "portfolioLink": "https://www.surajgaud.com",
-    "followers": 4,
-    "stars": 0,
-    "popularity": 4,
-    "lastFetched": 1774182588847
-  },
-  {
     "name": "Mahdi Pakravan | MPakravan",
     "username": "mahdipakravan-dev",
     "portfolioLink": "https://mpakravan.com/en",
@@ -196,5 +187,14 @@
     "stars": 575,
     "popularity": 753,
     "lastFetched": 1774574559164
+  },
+  {
+    "name": "Suraj Gaud",
+    "username": "surajgaud",
+    "portfolioLink": "https://www.surajgaud.com",
+    "followers": 4,
+    "stars": 0,
+    "popularity": 4,
+    "lastFetched": 1774615280015
   }
 ]
