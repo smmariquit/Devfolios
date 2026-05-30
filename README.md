@@ -35,6 +35,7 @@ Make sure your portfolio satisfies the following requirements before submitting 
     Open a Pull Request after committing your modification.
 
 ## Portfolios
+- [ParishKhan](https://parish.cv)
 - [alyssaxuu](https://www.alyssax.com)
 - [xeven777](https://anish7.me)
 - [antfu](https://antfu.me)
