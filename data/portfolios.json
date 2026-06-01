@@ -1,68 +1,5 @@
 [
   {
-    "name": "Alyssa X",
-    "username": "alyssaxuu",
-    "portfolioLink": "https://www.alyssax.com",
-    "followers": 9803,
-    "stars": 52022,
-    "popularity": 61825,
-    "lastFetched": 1779911994464
-  },
-  {
-    "name": "Anthony Fu",
-    "username": "antfu",
-    "portfolioLink": "https://antfu.me",
-    "followers": 39361,
-    "stars": 23216,
-    "popularity": 62577,
-    "lastFetched": 1779911994464
-  },
-  {
-    "name": "Ryan Aulia",
-    "username": "aulianza",
-    "portfolioLink": "https://aulianza.id",
-    "followers": 212,
-    "stars": 593,
-    "popularity": 805,
-    "lastFetched": 1779911994464
-  },
-  {
-    "name": "Braydon Coyer",
-    "username": "braydoncoyer",
-    "portfolioLink": "https://www.braydoncoyer.dev",
-    "followers": 1112,
-    "stars": 938,
-    "popularity": 2050,
-    "lastFetched": 1779911994464
-  },
-  {
-    "name": "Arnab Mondal",
-    "username": "codewarnab",
-    "portfolioLink": "https://codewarnab.in/",
-    "followers": 41,
-    "stars": 32,
-    "popularity": 73,
-    "lastFetched": 1779911994464
-  },
-  {
-    "name": "Shinn Thant",
-    "username": "devshinthant",
-    "portfolioLink": "https://devshinthant.vercel.app",
-    "followers": 90,
-    "stars": 213,
-    "popularity": 303,
-    "lastFetched": 1779911994464
-  },
-  {
-    "name": "Victor Eke",
-    "username": "Evavic44",
-    "portfolioLink": "https://victoreke.com",
-    "followers": 1172,
-    "stars": 7086,
-    "popularity": 8258,
-    "lastFetched": 1779911994464
-  },
-  {
     "username": "Gii-DE",
     "name": null,
     "portfolioLink": "https://gii-de.onrender.com/",
@@ -70,51 +7,6 @@
     "stars": 6,
     "popularity": 6,
     "lastFetched": 1780155708297
-  },
-  {
-    "name": "ani",
-    "username": "icantcodefyi",
-    "portfolioLink": "https://ani.ink",
-    "followers": 257,
-    "stars": 172,
-    "popularity": 429,
-    "lastFetched": 1779911994464
-  },
-  {
-    "name": "Israel Mitolu",
-    "username": "israelmitolu",
-    "portfolioLink": "https://www.mitolu.dev",
-    "followers": 159,
-    "stars": 209,
-    "popularity": 368,
-    "lastFetched": 1779911994464
-  },
-  {
-    "name": "enscribe",
-    "username": "jktrn",
-    "portfolioLink": "https://enscribe.dev",
-    "followers": 429,
-    "stars": 1369,
-    "popularity": 1798,
-    "lastFetched": 1779911994464
-  },
-  {
-    "name": "Lean Rada",
-    "username": "Kalabasa",
-    "portfolioLink": "https://leanrada.com",
-    "followers": 294,
-    "stars": 2343,
-    "popularity": 2637,
-    "lastFetched": 1779911994464
-  },
-  {
-    "name": "KinfeMichael Tariku",
-    "username": "Kinfe123",
-    "portfolioLink": "https://kinfish.farmui.com",
-    "followers": 592,
-    "stars": 22,
-    "popularity": 614,
-    "lastFetched": 1779911994464
   },
   {
     "name": "Mahdi Pakravan | MPakravan",
@@ -135,33 +27,6 @@
     "lastFetched": 1780047314358
   },
   {
-    "name": "Chánh Đại",
-    "username": "ncdai",
-    "portfolioLink": "https://chanhdai.com",
-    "followers": 647,
-    "stars": 2801,
-    "popularity": 3448,
-    "lastFetched": 1779911994464
-  },
-  {
-    "name": "Nathan M.",
-    "username": "Neosoulink",
-    "portfolioLink": "https://nathan-mande.netlify.app",
-    "followers": 96,
-    "stars": 123,
-    "popularity": 219,
-    "lastFetched": 1779911994464
-  },
-  {
-    "name": "ꜱᴛᴀʀᴋ",
-    "username": "notstark",
-    "portfolioLink": "https://next-portfolio-stark.vercel.app",
-    "followers": 58,
-    "stars": 182,
-    "popularity": 240,
-    "lastFetched": 1779911994464
-  },
-  {
     "username": "ParishKhan",
     "name": "PariSh KhAn ",
     "portfolioLink": "https://parish.cv",
@@ -171,13 +36,157 @@
     "lastFetched": 1780155824612
   },
   {
+    "name": "Anish Biswas",
+    "username": "xeven777",
+    "portfolioLink": "https://anish7.me",
+    "followers": 259,
+    "stars": 372,
+    "popularity": 631,
+    "lastFetched": 1780128974569
+  },
+  {
+    "name": "Alyssa X",
+    "username": "alyssaxuu",
+    "portfolioLink": "https://www.alyssax.com",
+    "followers": 9803,
+    "stars": 52053,
+    "popularity": 61856,
+    "lastFetched": 1780348858975
+  },
+  {
+    "name": "Anthony Fu",
+    "username": "antfu",
+    "portfolioLink": "https://antfu.me",
+    "followers": 39384,
+    "stars": 23223,
+    "popularity": 62607,
+    "lastFetched": 1780348858975
+  },
+  {
+    "name": "Ryan Aulia",
+    "username": "aulianza",
+    "portfolioLink": "https://aulianza.id",
+    "followers": 211,
+    "stars": 592,
+    "popularity": 803,
+    "lastFetched": 1780348858975
+  },
+  {
+    "name": "Braydon Coyer",
+    "username": "braydoncoyer",
+    "portfolioLink": "https://www.braydoncoyer.dev",
+    "followers": 1113,
+    "stars": 938,
+    "popularity": 2051,
+    "lastFetched": 1780348858975
+  },
+  {
+    "name": "Arnab Mondal",
+    "username": "codewarnab",
+    "portfolioLink": "https://codewarnab.in/",
+    "followers": 41,
+    "stars": 32,
+    "popularity": 73,
+    "lastFetched": 1780348858975
+  },
+  {
+    "name": "Shinn Thant",
+    "username": "devshinthant",
+    "portfolioLink": "https://devshinthant.vercel.app",
+    "followers": 90,
+    "stars": 213,
+    "popularity": 303,
+    "lastFetched": 1780348858975
+  },
+  {
+    "name": "Victor Eke",
+    "username": "Evavic44",
+    "portfolioLink": "https://victoreke.com",
+    "followers": 1171,
+    "stars": 7100,
+    "popularity": 8271,
+    "lastFetched": 1780348858975
+  },
+  {
+    "name": "ani",
+    "username": "icantcodefyi",
+    "portfolioLink": "https://ani.ink",
+    "followers": 257,
+    "stars": 173,
+    "popularity": 430,
+    "lastFetched": 1780348858975
+  },
+  {
+    "name": "Israel Mitolu",
+    "username": "israelmitolu",
+    "portfolioLink": "https://www.mitolu.dev",
+    "followers": 159,
+    "stars": 209,
+    "popularity": 368,
+    "lastFetched": 1780348858975
+  },
+  {
+    "name": "enscribe",
+    "username": "jktrn",
+    "portfolioLink": "https://enscribe.dev",
+    "followers": 433,
+    "stars": 1370,
+    "popularity": 1803,
+    "lastFetched": 1780348858975
+  },
+  {
+    "name": "Lean Rada",
+    "username": "Kalabasa",
+    "portfolioLink": "https://leanrada.com",
+    "followers": 294,
+    "stars": 2343,
+    "popularity": 2637,
+    "lastFetched": 1780348858975
+  },
+  {
+    "name": "KinfeMichael Tariku",
+    "username": "Kinfe123",
+    "portfolioLink": "https://kinfish.farmui.com",
+    "followers": 597,
+    "stars": 22,
+    "popularity": 619,
+    "lastFetched": 1780348858975
+  },
+  {
+    "name": "Chánh Đại",
+    "username": "ncdai",
+    "portfolioLink": "https://chanhdai.com",
+    "followers": 658,
+    "stars": 2848,
+    "popularity": 3506,
+    "lastFetched": 1780348858975
+  },
+  {
+    "name": "Nathan M.",
+    "username": "Neosoulink",
+    "portfolioLink": "https://nathan-mande.netlify.app",
+    "followers": 96,
+    "stars": 123,
+    "popularity": 219,
+    "lastFetched": 1780348858975
+  },
+  {
+    "name": "ꜱᴛᴀʀᴋ",
+    "username": "notstark",
+    "portfolioLink": "https://next-portfolio-stark.vercel.app",
+    "followers": 58,
+    "stars": 182,
+    "popularity": 240,
+    "lastFetched": 1780348858975
+  },
+  {
     "name": "Sat Naing",
     "username": "satnaing",
     "portfolioLink": "https://satnaing.dev",
-    "followers": 1127,
-    "stars": 18155,
-    "popularity": 19282,
-    "lastFetched": 1779911994464
+    "followers": 1128,
+    "stars": 18216,
+    "popularity": 19344,
+    "lastFetched": 1780348858975
   },
   {
     "name": "Suraj Gaud",
@@ -186,7 +195,7 @@
     "followers": 4,
     "stars": 0,
     "popularity": 4,
-    "lastFetched": 1779911994464
+    "lastFetched": 1780348858975
   },
   {
     "name": "Talha Codes",
@@ -195,24 +204,15 @@
     "followers": 3,
     "stars": 1,
     "popularity": 4,
-    "lastFetched": 1779911994464
+    "lastFetched": 1780348858975
   },
   {
     "name": "Wisnu Wicaksono",
     "username": "wiscaksono",
     "portfolioLink": "https://wiscaksono.com",
     "followers": 181,
-    "stars": 595,
-    "popularity": 776,
-    "lastFetched": 1779911994464
-  },
-  {
-    "name": "Anish Biswas",
-    "username": "xeven777",
-    "portfolioLink": "https://anish7.me",
-    "followers": 259,
-    "stars": 372,
-    "popularity": 631,
-    "lastFetched": 1780128974569
+    "stars": 594,
+    "popularity": 775,
+    "lastFetched": 1780348858975
   }
 ]
