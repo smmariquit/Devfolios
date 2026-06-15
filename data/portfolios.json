@@ -1,23 +1,5 @@
 [
   {
-    "name": null,
-    "username": "Gii-DE",
-    "portfolioLink": "https://gii-de.onrender.com/",
-    "followers": 0,
-    "stars": 6,
-    "popularity": 6,
-    "lastFetched": 1781034951087
-  },
-  {
-    "name": "PariSh KhAn ",
-    "username": "ParishKhan",
-    "portfolioLink": "https://parish.cv",
-    "followers": 5,
-    "stars": 4,
-    "popularity": 9,
-    "lastFetched": 1781034951087
-  },
-  {
     "name": "Alyssa X",
     "username": "alyssaxuu",
     "portfolioLink": "https://www.alyssax.com",
@@ -214,5 +196,23 @@
     "stars": 376,
     "popularity": 640,
     "lastFetched": 1781464125846
+  },
+  {
+    "name": null,
+    "username": "Gii-DE",
+    "portfolioLink": "https://gii-de.onrender.com/",
+    "followers": 0,
+    "stars": 6,
+    "popularity": 6,
+    "lastFetched": 1781491583103
+  },
+  {
+    "name": "PariSh KhAn ",
+    "username": "ParishKhan",
+    "portfolioLink": "https://parish.cv",
+    "followers": 5,
+    "stars": 4,
+    "popularity": 9,
+    "lastFetched": 1781491583103
   }
 ]
