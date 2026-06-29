@@ -59,3 +59,4 @@ Make sure your portfolio satisfies the following requirements before submitting 
 - [nabinkhair42](https://www.nabinkhair.com.np)
 - [surajgaud](https://www.surajgaud.com)
 - [Gii-DE](https://gii-de.onrender.com/)
+- [smmariquit](https://stimmie.dev)
