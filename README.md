@@ -18,21 +18,21 @@ Make sure your portfolio satisfies the following requirements before submitting 
 
 ## How to Include Your Portfolio
 
-1.  This repository should be **forked**.
-2.  In your fork, open the `README.md` file.
-3.  Include your portfolio entry in the `Portfolios` section (below) as follows:
+1. This repository should be **forked**.
+2. In your fork, open the `README.md` file.
+3. Include your portfolio entry in the `Portfolios` section (below) as follows:
 
-    ```markdown
+ ```markdown
     - [your_github_username](https://your-portfolio-link.com)
     ```
 
-    For instance:
+ For instance:
 
-    ```markdown
+ ```markdown
     - [notstark](https://next-portfolio-stark.vercel.app)
     ```
 
-    Open a Pull Request after committing your modification.
+ Open a Pull Request after committing your modification.
 
 ## Portfolios
 - [ParishKhan](https://parish.cv)
